@@ -3,7 +3,6 @@ layout: default
 preloader: true
 navbar:
     right_nav_tool: true
-search: false
 ---
 <div class="breadcrumb_area_three">
     <img alt="" class="p_absolute one" src="{{"img/typography/leaf_left.png" | relative_url}}">
