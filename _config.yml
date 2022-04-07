@@ -16,7 +16,7 @@ url: 'Bio-Training-Federation'
 baseurl:            "/website-2"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
-permalink: /:title/
+permalink: website-2/:title/
 
 logo: img/logo.png
 logo2x: img/logo-2x.png
